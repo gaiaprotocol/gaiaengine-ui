@@ -1,0 +1,1 @@
+{"version":3,"file":"GaiaEngineUIConfig.js","sourceRoot":"","sources":["../src/GaiaEngineUIConfig.ts"],"names":[],"mappings":"AAIA,MAAM,kBAAkB;IACf,gBAAgB,CAAU;IAE1B,IAAI,CAAC,MAA2B;QACrC,MAAM,CAAC,MAAM,CAAC,IAAI,EAAE,MAAM,CAAC,CAAC;IAC9B,CAAC;CACF;AAED,eAAe,IAAI,kBAAkB,EAAE,CAAC"}
