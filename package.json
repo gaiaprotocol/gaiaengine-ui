@@ -2,13 +2,13 @@
   "name": "@gaiaengine/ui",
   "author": "Gaia Protocol",
   "homepage": "https://gaiaprotocol.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "types": "./lib/index.d.ts",
   "main": "./lib/index.js",
   "dependencies": {
-    "@gaiaengine/2d": "^0.1.8",
-    "@common-module/app-components": "^0.1.6"
+    "@gaiaengine/2d": "^0.1.9",
+    "@commonmodule/app-components": "^0.1.8"
   },
   "devDependencies": {}
 }

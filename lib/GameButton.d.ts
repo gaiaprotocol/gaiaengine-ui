@@ -1,4 +1,4 @@
-import { Button, ButtonOptions } from "@common-module/app-components";
+import { Button, ButtonOptions } from "@commonmodule/app-components";
 export interface GameButtonOptions extends ButtonOptions {
     pressSound?: string;
 }

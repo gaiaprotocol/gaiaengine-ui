@@ -1,5 +1,5 @@
-import { DomChild, DomNode } from "@common-module/app";
-import { StructuredModal } from "@common-module/app-components";
+import { DomChild, DomNode } from "@commonmodule/app";
+import { StructuredModal } from "@commonmodule/app-components";
 interface GameAlertDialogOptions {
     icon?: DomNode;
     title: string;

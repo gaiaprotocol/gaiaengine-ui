@@ -1,4 +1,4 @@
-import { Button, ButtonOptions } from "@common-module/app-components";
+import { Button, ButtonOptions } from "@commonmodule/app-components";
 import { SFXPlayer } from "@gaiaengine/2d";
 import GaiaEngineUIConfig from "../GaiaEngineUIConfig.js";
 

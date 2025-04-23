@@ -1,5 +1,5 @@
-import { DomChild, DomNode, el } from "@common-module/app";
-import { StructuredModal } from "@common-module/app-components";
+import { DomChild, DomNode, el } from "@commonmodule/app";
+import { StructuredModal } from "@commonmodule/app-components";
 import GameButton from "../button/GameButton.js";
 
 interface GameAlertDialogOptions {
