@@ -1,4 +1,3 @@
-import { DomChild, DomNode } from "@commonmodule/app";
 import { StructuredModal } from "@commonmodule/app-components";
 
 interface GameStructuredModalOptions {

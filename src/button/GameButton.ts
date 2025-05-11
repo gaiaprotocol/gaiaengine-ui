@@ -1,5 +1,5 @@
+import { SoundEffectPlayer } from "@commonmodule/app";
 import { Button, ButtonOptions } from "@commonmodule/app-components";
-import { SFXPlayer } from "@gaiaengine/2d";
 import GaiaEngineUIConfig from "../GaiaEngineUIConfig.js";
 
 export default class GameButton extends Button {
@@ -20,9 +20,9 @@ export default class GameButton extends Button {
     }
 
     super(`.game-button${classNames}`, options);
-    this.onDom(
+    this.on(
       "click",
-      () => SFXPlayer.play(GaiaEngineUIConfig.buttonPressSound),
+      () => SoundEffectPlayer.play(GaiaEngineUIConfig.buttonPressSound),
     );
   }
 }

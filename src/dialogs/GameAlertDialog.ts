@@ -1,9 +1,9 @@
-import { DomChild, DomNode, el } from "@commonmodule/app";
+import { Dom, DomChild, el } from "@commonmodule/app";
 import { StructuredModal } from "@commonmodule/app-components";
 import GameButton from "../button/GameButton.js";
 
 interface GameAlertDialogOptions {
-  icon?: DomNode;
+  icon?: Dom;
   title: string;
   message: string | DomChild | DomChild[];
   confirmButtonTitle?: string;
